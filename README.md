@@ -1,59 +1,53 @@
-# Poupapp
+# 💰 Poupapp
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
+Aplicação front-end para controle de gastos e poupança pessoal, desenvolvida em Angular. Permite acompanhar metas de economia e organizar melhor a rotina financeira do usuário.
 
-## Development server
+## 🔨 Funcionalidades
 
-To start a local development server, run:
+- 🎯 **Definição de metas de economia**
+- 💵 **Acompanhamento de gastos** pessoais
+- 📈 Visualização do progresso em direção às metas estabelecidas
+
+## ✔️ Tecnologias utilizadas
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+## 🛠️ Como rodar o projeto
 
 ```bash
+# Clone o repositório
+git clone https://github.com/VanessaBCarvalho/Poupapp_Alura.git
+
+# Entre na pasta do projeto
+cd Poupapp_Alura
+
+# Instale as dependências
+npm install
+
+# Execute o projeto
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Depois, abra o navegador em `http://localhost:4200/` para visualizar a aplicação em execução.
 
-## Code scaffolding
+> ⚠️ **Pré-requisitos:** Node.js e Angular CLI instalados na máquina.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## 📸 Demonstração
 
-```bash
-ng generate component component-name
-```
+*(Espaço reservado para prints das telas do app — adicionar assim que possível.)*
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## 📚 Sobre o projeto
 
-```bash
-ng generate --help
-```
+Este projeto foi desenvolvido durante meus estudos de Angular na Alura, com foco em:
+- Componentização e organização de código Angular
+- Estruturação de uma aplicação orientada a metas do usuário
+- Boas práticas de desenvolvimento front-end
 
-## Building
+## 👩‍💻 Autora
 
-To build the project run:
+**Vanessa Beatriz Carvalho**
 
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+[LinkedIn](https://www.linkedin.com/in/vanessa-carvalho-395b2b1a2) · [GitHub](https://github.com/VanessaBCarvalho)
